@@ -5,13 +5,16 @@
 ### Εγκατάσταση
 
 Για την λειτουργία χρειάζεται να εγκατασταθεί η RUBY. (https://rubyinstaller.org/)
-Στην συνέχεια θα πρέπει να εγκατασταθούν τα πακέτα: 
+Στην συνέχεια θα πρέπει να εγκατασταθούν τα πακέτα:
+
 ```sh
 gem install watir
 gem install pony
 gem install mime-types
 gem install roo
 ```
+
+Καθώς απαιτείτε και λήψη του ChromeDriver (http://chromedriver.chromium.org/downloads) και η καταχώρηση του στο Enviroment Path των Windows.
 
 ### Λειτουργία
 #### Λίστα
